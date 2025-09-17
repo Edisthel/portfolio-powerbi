@@ -20,7 +20,7 @@ Bienvenue dans mon portfolio Power BI. Vous trouverez ici mes projets d'analyse 
 - Top Produits et le Top Clients
 
 ### Exemple de visuels
-*(captures d'écran à ajouter dans '/images')*
+*(captures d'écran à ajouter dans)*
 - Page 1 : ** KPI Stratégiques ** (CA, Marge, Taux de Marge, Nombre de quantité vendues, Evolution du chiffre d'affaire dans le temps, Chiffre d'Affaire par Produit, Quantité vendue par produit)
 - Page 2 : ** Analyse de Produits ** (CA par Segment, CA par Catégorie, CA commercial) 
 - Page 3 : ** Analyse Clients ** (segmentation, fidélisation)
